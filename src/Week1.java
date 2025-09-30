@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ /*import java.util.Scanner;
 
 public class Week1 {
     public static void main(String[] args) {
@@ -101,3 +101,4 @@ public class Week1 {
 
 }
 
+*/
